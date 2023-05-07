@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176133832236",
+    "project_id": "notemanagement-d15e1",
+    "storage_bucket": "notemanagement-d15e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176133832236:android:d4cd50581dda79f7e8db89",
+        "android_client_info": {
+          "package_name": "com.example.notemanagement_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176133832236-qevpbosiifih4s8et1dmagoepmpeg5ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1_7tqRL-Nl8l35d5UliBPl74orh2q1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176133832236-qevpbosiifih4s8et1dmagoepmpeg5ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
